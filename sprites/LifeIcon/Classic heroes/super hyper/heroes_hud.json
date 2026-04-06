@@ -1,0 +1,12 @@
+{
+	
+        "hud_lives_icon_ssonic":    { "File": "sSonic_p1.png", "Rect": "0,0,57,24", "Center": "-5,5" }, 
+        "hud_lives_icon_stails":    { "File": "sTails_p1.png", "Rect": "0,0,57,24", "Center": "-5,5" },
+        "hud_lives_icon_smiles":    { "File": "sTails_p1.png", "Rect": "0,0,57,24", "Center": "-5,5" },
+        "hud_lives_icon_sknuckles": { "File": "sKnuckles_p1.png", "Rect": "0,0,57,24", "Center": "-5,5" },
+
+        "sSonic":    { "File": "sSonic.png", "Rect": "0,0,57,24", "Center": "-45,6" }, 
+        "sSonicp2":    { "File": "sSonic.png", "Rect": "0,0,57,24", "Center": "-29,6" }, 
+        "sTails":    { "File": "sTails.png", "Rect": "0,0,57,24", "Center": "-29,6" },
+        "sKnuckles": { "File": "sKnuckles.png", "Rect": "0,0,57,24", "Center": "-29,6" }
+}

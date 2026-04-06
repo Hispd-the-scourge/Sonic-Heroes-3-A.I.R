@@ -1,0 +1,30 @@
+{
+  // Intro Plane
+	"Tails_Torn":  { "File": "Tails_Torn.png", "Rect": "0,0,116,64", "Center": "60,32" },
+
+  // Turbine Fire
+ "Turbine_fire_00":  { "File": "Turbine_Fire.png", "Rect": "1,1,20,36", "Center": "50,18" },
+ "Turbine_fire_01":  { "File": "Turbine_Fire.png", "Rect": "22,12,58,15", "Center": "75,7" }, 
+ "Turbine_fire_02":  { "File": "Turbine_Fire.png", "Rect": "81,12,58,15", "Center": "75,7" }, 
+ "Turbine_fire_03":  { "File": "Turbine_Fire.png", "Rect": "140,13,33,15", "Center": "62,6" },
+ 
+ // Tornado Propeller
+ "Tornado_propeller_00":  { "File": "Tornado_Propeller.png", "Rect": "1,1,6,44", "Center": "0,22" }, 
+ "Tornado_propeller_01":  { "File": "Tornado_Propeller.png", "Rect": "8,1,6,44", "Center": "0,22" }, 
+ "Tornado_propeller_02":  { "File": "Tornado_Propeller.png", "Rect": "15,1,6,44", "Center": "0,22" }, 
+ "Tornado_propeller_03":  { "File": "Tornado_Propeller.png", "Rect": "22,1,6,44", "Center": "0,22" },
+ "Tornado_propeller_04":  { "File": "Tornado_Propeller.png", "Rect": "29,1,6,44", "Center": "0,22" },
+ "Tornado_propeller_05":  { "File": "Tornado_Propeller.png", "Rect": "36,1,6,44", "Center": "0,22" },
+ "Tornado_propeller_06":  { "File": "Tornado_Propeller.png", "Rect": "43,1,6,44", "Center": "0,22" },
+ "Tornado_propeller_07":  { "File": "Tornado_Propeller.png", "Rect": "50,1,6,44", "Center": "0,22" },
+
+  // Tornado Head, for now
+  "Tornado_Head_Tails":  { "File": "BigTails_Head.png", "Rect": "0,0,120,80", "Center": "58,16" },
+
+ // Mini Tornado Head
+ "Tails_Mini":  { "File": "MiniSonic_Head.png", "Rect": "0,0,12,10", "Center": "24,-9" },
+ "Sonic_Mini":  { "File": "MiniTails_Head.png", "Rect": "0,0,10,7", "Center": "23,-10" },
+
+  // Small Characters
+"Small_tails_MA":  { "File": "Character_SonicMini.png", "Rect": "0,0,200,64", "Center": "30,24" },
+}

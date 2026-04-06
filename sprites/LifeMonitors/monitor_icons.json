@@ -1,0 +1,6 @@
+{
+    // Normal
+    "monitor_icon_sonic":    { "File": "hud_life_sprites.png", "Rect": "0,16,48,16", "Center": "8,7" },
+	"monitor_icon_tails":    { "File": "hud_life_sprites.png", "Rect": "0,16,48,16", "Center": "8,7" },
+	"monitor_icon_knuckles": { "File": "hud_life_sprites.png", "Rect": "0,16,48,16", "Center": "8,7" }
+}

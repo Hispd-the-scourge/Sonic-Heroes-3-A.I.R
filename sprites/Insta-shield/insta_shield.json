@@ -1,0 +1,10 @@
+{
+	// Insta Shield. Only 0x0 - 0x6 are used in-game, but you can go up to
+	// 0x0d (14 frames total, including 0x00)
+	
+
+"insta_shield_0x00":  { "File": "Airdash.bmp", "Rect": "0,0,29,33", "Center": "15,17" },
+	"insta_shield_0x01":  { "File": "Airdash.bmp", "Rect": "28,0,32,34", "Center": "17,19" },
+	"insta_shield_0x02":  { "File": "Airdash.bmp", "Rect": "60,0,29,33", "Center": "14,18" },
+	"insta_shield_0x03":  { "File": "Airdash.bmp", "Rect": "89,0,29,33", "Center": "15,18" },
+}

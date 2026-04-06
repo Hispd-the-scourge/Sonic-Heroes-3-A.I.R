@@ -1,0 +1,13 @@
+{
+	"bluesphere_sonic_0x01": { "File": "blue_spheres_character_sonic_t.png", "Rect": "8,8,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x02": { "File": "blue_spheres_character_sonic_t.png", "Rect": "8,80,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x03": { "File": "blue_spheres_character_sonic_t.png", "Rect": "80,80,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x04": { "File": "blue_spheres_character_sonic_t.png", "Rect": "152,80,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x05": { "File": "blue_spheres_character_sonic_t.png", "Rect": "224,80,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x06": { "File": "blue_spheres_character_sonic_t.png", "Rect": "296,80,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x07": { "File": "blue_spheres_character_sonic_t.png", "Rect": "368,80,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x08": { "File": "blue_spheres_character_sonic_t.png", "Rect": "440,80,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x09": { "File": "blue_spheres_character_sonic_t.png", "Rect": "88,8,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x0a": { "File": "blue_spheres_character_sonic_t.png", "Rect": "160,8,64,64", "Center": "32,50" },
+	"bluesphere_sonic_0x0b": { "File": "blue_spheres_character_sonic_t.png", "Rect": "232,8,64,64", "Center": "32,50" }
+}

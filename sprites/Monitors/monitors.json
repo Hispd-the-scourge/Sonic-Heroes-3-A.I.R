@@ -1,0 +1,22 @@
+{
+	// Monitors
+	"monitor_s3_intact": { "File": "monitors.png", "Rect":"0,0,32,32",   "Center": "16,16" },
+	"monitor_s3_broken": { "File": "monitors.png", "Rect":"32,0,32,32",  "Center": "16,16" },
+	"monitor_s2_intact": { "File": "monitors.png", "Rect":"0,32,32,32",  "Center": "16,16" },
+	"monitor_s2_broken": { "File": "monitors.png", "Rect":"32,32,32,32", "Center": "16,16" },
+
+	// Icons
+	"monitor_icon_ring":            { "File": "monitors.png", "Rect":"64,0,16,16",  "Center": "8,8" },
+	"monitor_icon_speedshoes":      { "File": "monitors.png", "Rect":"80,0,16,16",  "Center": "8,8" },
+	"monitor_icon_invincibility":   { "File": "monitors.png", "Rect":"96,0,16,16",  "Center": "8,8" },
+	"monitor_icon_super":           { "File": "monitors.png", "Rect":"112,0,16,16", "Center": "8,8" },
+	"monitor_icon_lightningshield": { "File": "monitors.png", "Rect":"64,16,16,16", "Center": "8,8" },
+	"monitor_icon_fireshield":      { "File": "monitors.png", "Rect":"80,16,16,16", "Center": "8,8" },
+	"monitor_icon_bubbleshield":    { "File": "monitors.png", "Rect":"96,16,16,16", "Center": "8,8" },
+	"monitor_icon_classicshield":   { "File": "monitors.png", "Rect":"112,16,16,16","Center": "8,8" },
+        "monitor_icon_sonic":    { "File": "hud_life_sprites.png", "Rect": "0,16,48,16", "Center": "8,7" },
+	"monitor_icon_tails":    { "File": "hud_life_sprites.png", "Rect": "0,16,48,16", "Center": "8,7" },
+	"monitor_icon_knuckles": { "File": "hud_life_sprites.png", "Rect": "0,16,48,16", "Center": "8,7" },
+	"monitor_icon_static":          { "File": "monitors.png", "Rect":"64,48,16,16", "Center": "8,8" },
+	"monitor_icon_robotnik":        { "File": "monitors.png", "Rect":"80,48,16,16", "Center": "8,8" }
+}

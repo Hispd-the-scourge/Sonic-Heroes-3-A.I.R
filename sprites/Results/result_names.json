@@ -1,0 +1,6 @@
+{
+	"result_nameplate_sonic": { "File": "Heroes_results.png", "Rect": "100,100,100", "Center": "15,20" },
+	"result_nameplate_tails": { "File": "Heroes_results.png", "Rect": "100,100,100", "Center": "15,20" },
+	"result_nameplate_miles": { "File": "Heroes_results.png", "Rect": "100,100,100", "Center": "15,20" },
+	"result_nameplate_knuckles": { "File": "Heroes_results.png", "Rect": "8,72,120,16", "Center": "-4,0" }
+}

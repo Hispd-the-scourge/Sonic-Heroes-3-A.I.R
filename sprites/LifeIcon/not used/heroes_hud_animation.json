@@ -1,0 +1,6 @@
+{
+	"hud_lives_icon_1":    { "File": "hud1.png", "Rect": "0,0,57,24", "Center": "-5,5" }, 
+        "hud_lives_icon_2":    { "File": "hud2.png", "Rect": "0,0,57,24", "Center": "-5,5" }, 
+        "hud_lives_icon_3":    { "File": "hud3.png", "Rect": "0,0,57,24", "Center": "-5,5" }, 
+        "hud_lives_icon_4":    { "File": "hud4.png", "Rect": "0,0,57,24", "Center": "-5,5" }
+}

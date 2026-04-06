@@ -1,0 +1,21 @@
+
+{
+// Character selection icons
+
+
+	"dataSel_digit_0":  { "File": "dataSel_lifeContinue.png", "Rect": "0,48,8,16" },
+	"dataSel_digit_1":  { "File": "dataSel_lifeContinue.png", "Rect": "8,48,8,16", },
+	"dataSel_digit_2":  { "File": "dataSel_lifeContinue.png", "Rect": "16,48,8,16",  },
+	"dataSel_digit_3":  { "File": "dataSel_lifeContinue.png", "Rect": "24,48,8,16",  },
+	"dataSel_digit_4":  { "File": "dataSel_lifeContinue.png", "Rect": "32,48,8,16", },
+	"dataSel_digit_5":  { "File": "dataSel_lifeContinue.png", "Rect": "40,48,8,16",  },
+	"dataSel_digit_6":  { "File": "dataSel_lifeContinue.png", "Rect": "48,48,8,16",  },
+	"dataSel_digit_7":  { "File": "dataSel_lifeContinue.png", "Rect": "56,48,8,16",  },
+	"dataSel_digit_8":  { "File": "dataSel_lifeContinue.png", "Rect": "64,48,8,16",  },
+	"dataSel_digit_9":  { "File": "dataSel_lifeContinue.png", "Rect": "72,48,8,16",  },
+
+	"SonicIcons": { "File": "dataSel_lifeContinue.png", "Rect": "2,4,24,40", "Center": "12,39" },
+	"TailsIcons": { "File": "dataSel_lifeContinue.png", "Rect": "2,4,24,40", "Center": "0,0" },
+	"KnucklesIcons": { "File": "dataSel_lifeContinue.png", "Rect": "2,4,24,40", "Center": "0,0" }
+
+}
